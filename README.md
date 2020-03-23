@@ -1,2 +1,2 @@
 # python_beginner
-Python for beginners ........codes and concepts
+Python for beginners ........codes
